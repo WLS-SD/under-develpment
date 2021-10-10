@@ -15,4 +15,4 @@
 [twitter]: https://youtube.com/channel/UCTR-KwZpKudLiQKoUOPDPDg
 [youtube]: https://youtube.com/channel/UCTR-KwZpKudLiQKoUOPDPDg
 [instagram]: https://instagram.com/shaswot.prog.dev.nceh.cse.chfi
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/shaswot-dhungana-949221204
