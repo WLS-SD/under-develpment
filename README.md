@@ -1,5 +1,6 @@
 ### Connect with me:
 
+[<img align="left" alt="Tech-Hacked" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -9,7 +10,7 @@
 <br />
 
 
-
+[facebook]: https://www.facebook.com/TechHackked/
 [website]: https://youtube.com/channel/UCTR-KwZpKudLiQKoUOPDPDg
 [course]: http://vsCodeHero.com
 [twitter]: https://youtube.com/channel/UCTR-KwZpKudLiQKoUOPDPDg
@@ -22,4 +23,4 @@
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 
-https://www.facebook.com/TechHackked/
+
