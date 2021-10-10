@@ -12,15 +12,7 @@
 
 [facebook]: https://www.facebook.com/TechHackked/
 [website]: https://youtube.com/channel/UCTR-KwZpKudLiQKoUOPDPDg
-[course]: http://vsCodeHero.com
 [twitter]: https://youtube.com/channel/UCTR-KwZpKudLiQKoUOPDPDg
 [youtube]: https://youtube.com/channel/UCTR-KwZpKudLiQKoUOPDPDg
 [instagram]: https://instagram.com/shaswot.prog.dev.nceh.cse.chfi
 [linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
-
-
